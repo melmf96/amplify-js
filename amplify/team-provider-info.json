@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyjseec3d760": {}
+      },
+      "api": {
+        "amplifyjs": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
